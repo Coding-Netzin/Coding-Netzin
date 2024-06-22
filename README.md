@@ -12,7 +12,7 @@
 <hr>
 <h5> <img src="https://64.media.tumblr.com/425cba0381257f0d70b1c4b93e2b2f78/efedbd680cf822be-7c/s1280x1920/b30602d990c822b152ba5225a86b17802b24bba4.png" </h5>
 <hr>
-<h6> copyright 2024-2025 Mason winchester all rights reseverd (yeah right i copyrighted this) </h6>
+<h6> copyright 2024-2025 Coding-netzin all rights reseverd (yeah right i copyrighted this) </h6>
 
 <head>
 	<link rel="stylesheet" type="text/css" href="style.css">

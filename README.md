@@ -6,11 +6,11 @@
   <li> here are some fun facts</li>
   <li> i love old computers and hate sports </li>
   <li> i am alive</li>
+  <li>  <button> <a href="https://www.msn.com/en-ca"> Msn </a> </button></li>
 </ul>
 <h4> that about it</h4>
 <hr>
 <h5> <img src="https://64.media.tumblr.com/425cba0381257f0d70b1c4b93e2b2f78/efedbd680cf822be-7c/s1280x1920/b30602d990c822b152ba5225a86b17802b24bba4.png" </h5>
-  <button> <a href="https://www.msn.com/en-ca"> Msn </a> </button>
 <hr>
 <h6> copyright 2024-2025 Mason winchester all rights reseverd (yeah right i copyrighted this) </h6>
 
